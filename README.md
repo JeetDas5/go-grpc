@@ -1,4 +1,4 @@
-# go-grpc project
+# go-grpc project Go
 
 ## Overview
 
